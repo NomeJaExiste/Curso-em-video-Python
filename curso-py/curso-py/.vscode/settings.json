@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:/Users/isaqu/AppData/Local/Programs/Python/Python39/python.exe",
+    "python.defaultInterpreterPath": "C:/Users/isaqu/AppData/Local/Programs/Python/Python39/python.exe",
+    "python.autoComplete.extraPaths": [
+    "C:/Users/isaqu/AppData/Local/Programs/Python/Python39/python.exe"
+    ],
+    "python.analysis.extraPaths": [
+        "C:/Users/isaqu/AppData/Local/Programs/Python/Python39/python.exe"
+    ]
+}
